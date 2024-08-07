@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dozelero.github.io/sitemap.html.gz
+Sitemap: https://dozelero.github.io/app/sitemap.html.gz
+Sitemap: https://dozelero.github.io/assets/sitemap.html.gz
+Sitemap: https://dozelero.github.io/css/sitemap.html.gz
+Sitemap: https://dozelero.github.io/includes/sitemap.html.gz
+Sitemap: https://dozelero.github.io/item/sitemap.html.gz
+Sitemap: https://dozelero.github.io/src/sitemap.html.gz
